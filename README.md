@@ -294,6 +294,6 @@ int main() {
 
 ## Полезные ссылки
 
-* Библиотека для уджобной работы с котировками [xquotes_history](https://github.com/NewYaroslav/xquotes_history)
-* Библиотека для рисования графиков в С++ [easy_plot_cpp](https://github.com/NewYaroslav/easy_plot_cpp)
+* Библиотека для уджобной работы с котировками [xquotes_history](https://github.com/LimiNode/xquotes_history)
+* Библиотека для рисования графиков в С++ [easy_plot_cpp](https://github.com/LimiNode/easy_plot_cpp)
 * Индикаторы и советники для Форекс (исходники): [https://trueforex.pp.ua/](https://trueforex.pp.ua/)
